@@ -1,0 +1,7 @@
+# Project exclude paths
+/treespring-admin/target/
+/treespring-common/target/
+/treespring-framework/target/
+/treespring-generator/target/
+/treespring-quartz/target/
+/treespring-system/target/
